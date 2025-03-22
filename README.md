@@ -5,8 +5,10 @@
 ## OS
 macOS
 
-## グループウェア
-- Google Workspace - Gmail, Meet, カレンダー
+## コミュニケーション・コラボレーション
+- Slack
+- Google Workspace - Gmail, Meet, カレンダー, スプレッドシートなど
+- Notion
 
 ## プロジェクト管理ツール
 - Notion - 自由度高い
