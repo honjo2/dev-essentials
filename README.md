@@ -26,6 +26,9 @@ macOS
 ## IDE
 - Visual Studio Code
 
+## AIコーディングアシスタント
+- GitHub Copilot
+
 ## 社内用生成AI版チャット
 - ChatGPT Team or ChatGPT Enterprise
 
