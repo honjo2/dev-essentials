@@ -26,9 +26,12 @@ macOS
 ## IDE
 - Visual Studio Code
 
-## 生成AI
-- Azure OpenAI Service - APIも使えること
-- Google Gemini - APIも使えること
-- Amazon Bedrock - APIも使えること
-- OpenAI - できれば
-- Anthropic - できれば
+## 社内用生成AI版チャット
+- ChatGPT Team or ChatGPT Enterprise
+
+## 開発用生成AI API
+- Azure OpenAI Service
+- Amazon Bedrock
+- Vertex AI Gemini AP
+- OpenAI
+- Anthropic
