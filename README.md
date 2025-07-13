@@ -7,34 +7,26 @@ macOS
 
 ## コミュニケーション・コラボレーション
 - Slack
-- Google Workspace - Gmail, Meet, カレンダー, スプレッドシートなど
+- Google Workspace
 - Notion
 
 ## プロジェクト管理ツール
-- Notion - 自由度高い
-- Asana - シンプル
-- Linear - スピーディーで効率的
+- Asana
 
 ## 開発プラットフォーム
 - GitHub
 
-## プログラミング言語
-- TypeScript - フロントエンド＆バックエンド
-- Python - 生成AI
-- Go - パフォーマンス重視
-
 ## IDE
 - Visual Studio Code
 
-## AIコーディングアシスタント
-- GitHub Copilot
+## 情報収集
+- ChatGPT
 
-## 社内用生成AI版チャット
-- ChatGPT Team or ChatGPT Enterprise
+## AIコーディングエージェント
+- Claude Code
 
-## 開発用生成AI API
-- Azure OpenAI Service
-- Amazon Bedrock
-- Vertex AI Gemini AP
-- OpenAI
-- Anthropic
+## 議事録作成
+- Notion AI
+
+## スライド作成
+- Claude Code
