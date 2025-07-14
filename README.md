@@ -10,23 +10,25 @@ macOS
 - Google Workspace
 - Notion
 
-## プロジェクト管理ツール
-- Asana
-
 ## 開発プラットフォーム
 - GitHub
 
 ## IDE
-- Visual Studio Code
+- VS Code
+- Cursor
 
 ## 情報収集
 - ChatGPT
+
+## AIコーディングアシスタント
+- ~~GitHub Copilot Chat~~
+- ~~Roo Code~~
 
 ## AIコーディングエージェント
 - Claude Code - エージェンティックコーディング、GitHub統合
 
 ## 完全自律型AIソフトウェアエンジニア
-- Devin - クラウドで動くので安心して丸投げできる
+- ~~Devin - クラウドで動くので安心して丸投げできる~~
 
 ## ワークフロー自動化
 - n8n
