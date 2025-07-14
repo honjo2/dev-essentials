@@ -25,8 +25,15 @@ macOS
 ## AIコーディングエージェント
 - Claude Code
 
+## ワークフロー自動化
+- n8n
+
+## ノーコード・ローコードのLLMアプリ開発
+- Dify
+
 ## 議事録作成
 - Notion AI
 
 ## スライド作成
-- Claude Code
+- Genspark - 簡単に作るなら
+- Claude Code - 細かく指示を出したいなら
