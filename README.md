@@ -1,6 +1,6 @@
 # Dev Essentials
 
-この環境で働きたい
+開発で使うものたち
 
 ## OS
 macOS
