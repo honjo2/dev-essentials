@@ -23,7 +23,10 @@ macOS
 - ChatGPT
 
 ## AIコーディングエージェント
-- Claude Code
+- Claude Code - エージェンティックコーディング、GitHub統合
+
+## 完全自律型AIソフトウェアエンジニア
+- Devin - クラウドで動くので安心して丸投げできる
 
 ## ワークフロー自動化
 - n8n
@@ -36,4 +39,4 @@ macOS
 
 ## スライド作成
 - Genspark - 簡単に作るなら
-- Claude Code - 細かく指示を出したいなら
+- Claude Code - 細部までこだわるなら
