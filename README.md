@@ -16,6 +16,7 @@ macOS
 ## IDE
 - VS Code
 - Cursor
+- Kiro
 
 ## 情報収集
 - ChatGPT
