@@ -43,3 +43,8 @@ macOS
 ## スライド作成
 - Genspark - 簡単に作るなら
 - Claude Code - 細部までこだわるなら
+
+## マインドマップ作成
+- MarkMap
+- Mapify
+- NotebookLM
