@@ -18,6 +18,9 @@ macOS
 - Cursor
 - Kiro
 
+## 情報収集・調査
+- Gemini Deep Research
+
 ## 汎用型AIエージェント
 - ChatGPTエージェント
 
