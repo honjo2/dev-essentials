@@ -18,8 +18,8 @@ macOS
 - Cursor
 - Kiro
 
-## 情報収集
-- ChatGPT
+## 汎用型AIエージェント
+- ChatGPTエージェント
 
 ## AIコーディングアシスタント
 - ~~GitHub Copilot Chat~~
