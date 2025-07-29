@@ -51,7 +51,6 @@ macOS
 ## マインドマップ作成
 - MarkMap
 - Mapify
-- NotebookLM
 
 ## 音声解説
 - NotebookLM
