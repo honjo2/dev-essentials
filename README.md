@@ -52,5 +52,5 @@ macOS
 - MarkMap
 - Mapify
 
-## 音声解説
+## 音声・動画解説
 - NotebookLM
