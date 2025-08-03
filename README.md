@@ -52,5 +52,9 @@ macOS
 - MarkMap
 - Mapify
 
-## 音声・動画解説
+## 音声解説
+- NotebookLM
+- Gemini
+
+## 動画解説
 - NotebookLM
