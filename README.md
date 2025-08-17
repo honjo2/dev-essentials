@@ -14,7 +14,7 @@ macOS
 - GitHub
 
 ## IDE
-- ~~VS Code~~
+- VS Code
 - Cursor
 - Kiro
 
