@@ -20,6 +20,7 @@ macOS
 
 ## 情報収集・調査
 - Gemini Deep Research
+- Manus
 
 ## 汎用型AIエージェント
 - ChatGPTエージェント
