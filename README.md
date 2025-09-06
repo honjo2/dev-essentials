@@ -19,6 +19,10 @@ macOS
 - ~~Kiro~~
 - Zed
 
+## メモアプリ
+- Notion
+- Obsidian
+
 ## 情報収集・調査
 - Gemini Deep Research
 - Manus
