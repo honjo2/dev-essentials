@@ -13,10 +13,11 @@ macOS
 ## 開発プラットフォーム
 - GitHub
 
-## IDE
+## IDE/テキストエディタ
 - VS Code
-- Cursor
-- Kiro
+- ~~Cursor~~
+- ~~Kiro~~
+- Zed
 
 ## 情報収集・調査
 - Gemini Deep Research
