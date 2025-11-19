@@ -64,5 +64,8 @@ macOS
 - NotebookLM
 - Gemini
 
+## AIボイスエージェント
+- Aqua Voice
+
 ## 動画解説
 - NotebookLM
