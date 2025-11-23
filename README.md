@@ -36,6 +36,9 @@ macOS
 - ~~GitHub Copilot Chat~~
 - ~~Roo Code~~
 
+## PRレビューエージェント
+- Gemini Code Assist
+
 ## AIコーディングエージェント
 - Claude Code - エージェンティックコーディング、GitHub統合
 - Codex - GPT-5ベースの高度なAIコーディングエージェント
