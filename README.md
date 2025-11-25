@@ -32,7 +32,7 @@ macOS
 - ChatGPTエージェント
 
 ## AIコーディングアシスタント
-- Amazon Q Developer - コマンド補完支援
+- Kiro CLI (旧 Amazon Q Developer CLI) - コマンド補完支援
 - ~~GitHub Copilot Chat~~
 - ~~Roo Code~~
 
