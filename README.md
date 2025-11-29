@@ -63,6 +63,9 @@ macOS
 - MarkMap
 - Mapify
 
+## 図解・ホワイトボード
+- Excalidraw
+
 ## 音声解説
 - NotebookLM
 - Gemini
