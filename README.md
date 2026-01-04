@@ -5,6 +5,9 @@
 ## OS
 macOS
 
+## ターミナル
+- Ghostty
+
 ## コミュニケーション・コラボレーション
 - Slack
 - Google Workspace
