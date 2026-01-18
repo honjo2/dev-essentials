@@ -69,6 +69,9 @@ macOS
 ## 図解・ホワイトボード
 - Excalidraw
 
+## UI/UXデザイン
+- Stitch - GoogleのAI UIデザインツール、プロンプトやスケッチからUI生成
+
 ## 音声解説
 - NotebookLM
 - Gemini
